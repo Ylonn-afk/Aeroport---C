@@ -1,0 +1,3 @@
+Piste;1;3000;moyenne;pisteAtterissage;3
+20;affaire;attPiste;8;1;1;1004.000000;650.000000;0.640000
+24;affaire;waitPiste;10;1;1;1057.000000;650.000000;0.000000

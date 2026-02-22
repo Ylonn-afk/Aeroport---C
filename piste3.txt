@@ -1,0 +1,2 @@
+Piste;2;3000;grande;pisteDecollage;3
+25;leger;decollage;5;2;2;898.000000;650.000000;0.280000

@@ -1,0 +1,2 @@
+Piste;0;3000;petite;pisteDecollage;3
+6;CAT_ligne;decPiste;175;1;0;951.000000;650.000000;0.880000
